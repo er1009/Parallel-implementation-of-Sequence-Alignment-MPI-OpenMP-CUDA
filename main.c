@@ -1,4 +1,3 @@
-//Eldad Ron 207021916
 #include <mpi.h>
 #include <stdio.h>
 #include <omp.h>
