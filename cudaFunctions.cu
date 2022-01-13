@@ -1,4 +1,3 @@
-//Eldad Ron 207021916
 #include <cuda_runtime.h>
 #include <helper_cuda.h>
 #include <stdlib.h>
