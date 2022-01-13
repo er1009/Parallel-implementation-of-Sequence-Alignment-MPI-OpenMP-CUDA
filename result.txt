@@ -1,0 +1,2 @@
+mutant: DLVKEEMQDLEMQFTQL
+offset: 1110 score: 34.000000
